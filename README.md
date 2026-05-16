@@ -46,3 +46,10 @@ traditional trade outlets across 4 Sri Lankan provinces for January 2026.
 - **Top features:** mean_bill_value, mean_volume, std_volume
 
 ## Potential Formula
+Potential = GBM_prediction × season_multiplier × poi_multiplier
+## Results
+
+- Outlets predicted: 20,000
+- Mean potential: 382 liters/month
+- Max potential: 2,181 liters/month
+
