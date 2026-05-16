@@ -1,0 +1,350 @@
+Date,Holiday_Name,Holiday_Type
+2023-01-06T00:00:00Z,Duruthu Full Moon Poya Day,Public
+2023-01-15T00:00:00Z,Tamil Thai Pongal Day,Public
+2023-01-16T00:00:00Z,Additional Holiday in lieu of Tamil Thai Pongal falling on Sunday,Public
+2023-02-03T00:00:00Z,Additional Half Holiday in lieu of the Independence Day  falling on Saturday,Public
+2023-02-04T00:00:00Z,National Day,Public
+2023-02-05T00:00:00Z,Navam Full Moon Poya Day,Public
+2024-03-24T00:00:00Z,Medin Full Moon Poya Day,Public
+2023-03-06T00:00:00Z,Medin Full Moon Poya Day,Public
+2023-04-05T00:00:00Z,Bak Full Moon Poya Day,Public
+2023-04-07T00:00:00Z,Good Friday,Public
+2023-04-13T00:00:00Z,Day Prior to Sinhala and Tamil New Year Day,Public
+2023-04-14T00:00:00Z,Sinhala and Tamil New Year Day,Public
+2023-05-01T00:00:00Z,Labour Day,Public
+2023-05-04T00:00:00Z,Additional Half Holiday in lieu of  Day following Vesak Full  Moon Poya Day falling on Saturday,Public
+2023-05-05T00:00:00Z,Vesak Full Moon Poya Day,Public
+2023-05-06T00:00:00Z,Day after Vesak Full Moon Poya Day,Public
+2023-06-03T00:00:00Z,Poson Full Moon Poya Day,Public
+2023-07-03T00:00:00Z,Adi Esala Full Moon Poya Day,Public
+2023-08-01T00:00:00Z,Esala Full Moon Poya Day,Public
+2023-08-30T00:00:00Z,Nikini Full Moon Poya Day,Public
+2023-09-28T00:00:00Z,Holy Prophet's Birthday,Public
+2023-09-29T00:00:00Z,Binara Full Moon Poya Day,Public
+2023-10-28T00:00:00Z,Vap Full Moon Poya Day,Public
+2023-11-26T00:00:00Z,Il Full Moon Poya Day,Public
+2023-12-25T00:00:00Z,Christmas Day,Public
+2023-12-26T00:00:00Z,Unduvap Full Moon Poya Day,Public
+2023-01-06T00:00:00Z,Duruthu Full Moon Poya Day,Poya Day
+2025-02-12T00:00:00Z,Navam Full Moon Poya Day,Poya Day
+2024-02-23T00:00:00Z,Navam Full Moon Poya Day,Poya Day
+2023-02-05T00:00:00Z,Navam Full Moon Poya Day,Poya Day
+2024-03-24T00:00:00Z,Medin Full Moon Poya Day,Poya Day
+2023-03-06T00:00:00Z,Medin Full Moon Poya Day,Poya Day
+2023-04-05T00:00:00Z,Bak Full Moon Poya Day,Poya Day
+2024-04-24T00:00:00Z,Bak Full Moon Poya Day,Poya Day
+2024-05-23T00:00:00Z,Vesak Full Moon Poya Day,Poya Day
+2023-05-05T00:00:00Z,Vesak Full Moon Poya Day,Poya Day
+2025-08-10T00:00:00Z,Nikini Full Moon Poya Day,Poya Day
+2023-06-03T00:00:00Z,Poson Full Moon Poya Day,Poya Day
+2023-07-03T00:00:00Z,Adi Esala Full Moon Poya Day,Poya Day
+2023-08-01T00:00:00Z,Esala Full Moon Poya Day,Poya Day
+2023-08-30T00:00:00Z,Nikini Full Moon Poya Day,Poya Day
+2024-09-17T00:00:00Z,Binara Full Moon Poya Day,Poya Day
+2023-09-29T00:00:00Z,Binara Full Moon Poya Day,Poya Day
+2023-10-28T00:00:00Z,Vap Full Moon Poya Day,Poya Day
+2023-11-26T00:00:00Z,Il Full Moon Poya Day,Poya Day
+2024-12-14T00:00:00Z,Unduvap Full Moon Poya Day,Poya Day
+2023-12-26T00:00:00Z,Unduvap Full Moon Poya Day,Poya Day
+2023-01-06T00:00:00Z,Duruthu Full Moon Poya Day,Bank
+2023-01-15T00:00:00Z,Tamil Thai Pongal Day,Bank
+2023-01-16T00:00:00Z,Additional Holiday in lieu of Tamil Thai Pongal falling on Sunday,Bank
+2023-02-03T00:00:00Z,Additional Half Holiday in lieu of the Independence Day  falling on Saturday,Bank
+2023-02-04T00:00:00Z,National Day,Bank
+2023-02-05T00:00:00Z,Navam Full Moon Poya Day,Bank
+2024-03-24T00:00:00Z,Medin Full Moon Poya Day,Bank
+2023-03-06T00:00:00Z,Medin Full Moon Poya Day,Bank
+2023-04-05T00:00:00Z,Bak Full Moon Poya Day,Bank
+2023-04-07T00:00:00Z,Good Friday,Bank
+2023-04-13T00:00:00Z,Day Prior to Sinhala and Tamil New Year Day,Bank
+2023-04-14T00:00:00Z,Sinhala and Tamil New Year Day,Bank
+2023-05-01T00:00:00Z,Labour Day,Bank
+2023-05-04T00:00:00Z,Additional Half Holiday in lieu of  Day following Vesak Full  Moon Poya Day falling on Saturday,Bank
+2023-05-05T00:00:00Z,Vesak Full Moon Poya Day,Bank
+2023-05-06T00:00:00Z,Day after Vesak Full Moon Poya Day,Bank
+2023-06-03T00:00:00Z,Poson Full Moon Poya Day,Bank
+2023-07-03T00:00:00Z,Adi Esala Full Moon Poya Day,Bank
+2023-08-01T00:00:00Z,Esala Full Moon Poya Day,Bank
+2023-08-30T00:00:00Z,Nikini Full Moon Poya Day,Bank
+2023-09-28T00:00:00Z,Holy Prophet's Birthday,Bank
+2023-09-29T00:00:00Z,Binara Full Moon Poya Day,Bank
+2023-10-28T00:00:00Z,Vap Full Moon Poya Day,Bank
+2023-11-26T00:00:00Z,Il Full Moon Poya Day,Bank
+2023-12-25T00:00:00Z,Christmas Day,Bank
+2023-12-26T00:00:00Z,Unduvap Full Moon Poya Day,Bank
+2023-01-06T00:00:00Z,Duruthu Full Moon Poya Day,Mercantile
+2023-01-15T00:00:00Z,Tamil Thai Pongal Day,Mercantile
+2023-01-16T00:00:00Z,Additional Holiday in lieu of Tamil Thai Pongal falling on Sunday,Mercantile
+2023-02-03T00:00:00Z,Additional Half Holiday in lieu of the Independence Day  falling on Saturday,Mercantile
+2023-02-04T00:00:00Z,National Day,Mercantile
+2023-02-05T00:00:00Z,Navam Full Moon Poya Day,Mercantile
+2024-03-24T00:00:00Z,Medin Full Moon Poya Day,Mercantile
+2023-03-06T00:00:00Z,Medin Full Moon Poya Day,Mercantile
+2023-04-05T00:00:00Z,Bak Full Moon Poya Day,Mercantile
+2023-04-07T00:00:00Z,Good Friday,Mercantile
+2023-04-13T00:00:00Z,Day Prior to Sinhala and Tamil New Year Day,Mercantile
+2023-04-14T00:00:00Z,Sinhala and Tamil New Year Day,Mercantile
+2023-05-01T00:00:00Z,Labour Day,Mercantile
+2023-05-04T00:00:00Z,Additional Half Holiday in lieu of  Day following Vesak Full  Moon Poya Day falling on Saturday,Mercantile
+2023-05-05T00:00:00Z,Vesak Full Moon Poya Day,Mercantile
+2023-05-06T00:00:00Z,Day after Vesak Full Moon Poya Day,Mercantile
+2023-06-03T00:00:00Z,Poson Full Moon Poya Day,Mercantile
+2023-07-03T00:00:00Z,Adi Esala Full Moon Poya Day,Mercantile
+2023-08-01T00:00:00Z,Esala Full Moon Poya Day,Mercantile
+2023-08-30T00:00:00Z,Nikini Full Moon Poya Day,Mercantile
+2023-09-28T00:00:00Z,Holy Prophet's Birthday,Mercantile
+2023-09-29T00:00:00Z,Binara Full Moon Poya Day,Mercantile
+2023-10-28T00:00:00Z,Vap Full Moon Poya Day,Mercantile
+2023-11-26T00:00:00Z,Il Full Moon Poya Day,Mercantile
+2023-12-25T00:00:00Z,Christmas Day,Mercantile
+2023-12-26T00:00:00Z,Unduvap Full Moon Poya Day,Mercantile
+2024-01-25T00:00:00Z,Duruthu Full Moon Poya Day,Public
+2024-01-15T00:00:00Z,Tamil Thai Pongal Day,Public
+2024-02-05T00:00:00Z,Additional Half Holiday in lieu of the Independence Day  falling on Sunday,Public
+2024-02-04T00:00:00Z,National Day,Public
+2024-02-23T00:00:00Z,Navam Full Moon Poya Day,Public
+2024-03-08T00:00:00Z,Maha Shiva Rathri Day,Public
+2024-03-24T00:00:00Z,Medin Full Moon Poya Day,Public
+2024-03-29T00:00:00Z,Good Friday,Public
+2024-04-11T00:00:00Z,Ramazan Day,Public
+2024-04-13T00:00:00Z,Day Prior to Sinhala and Tamil New Year Day,Public
+2024-04-14T00:00:00Z,Sinhala and Tamil New Year Day,Public
+2024-04-23T00:00:00Z,Bak Full Moon Poya Day,Public
+2024-05-01T00:00:00Z,Labour Day,Public
+2024-05-23T00:00:00Z,Vesak Full Moon Poya Day,Public
+2024-05-24T00:00:00Z,Day after Vesak Full Moon Poya Day,Public
+2024-06-17T00:00:00Z,Hajji Festival Day,Public
+2024-06-21T00:00:00Z,Poson Full Moon Poya Day,Public
+2024-07-20T00:00:00Z,Esala Full Moon Poya Day,Public
+2024-08-19T00:00:00Z,Nikini Full Moon Poya Day,Public
+2024-09-16T00:00:00Z,Holy Prophet's Birthday,Public
+2024-09-17T00:00:00Z,Binara Full Moon Poya Day,Public
+2024-10-17T00:00:00Z,Vap Full Moon Poya Day,Public
+2024-10-31T00:00:00Z,Deepavali Day,Public
+2024-11-15T00:00:00Z,Il Full Moon Poya Day,Public
+2024-12-14T00:00:00Z,Unduvap Full Moon Poya Day,Public
+2024-12-25T00:00:00Z,Christmas Day,Public
+2024-01-25T00:00:00Z,Duruthu Full Moon Poya Day,Poya Day
+2024-02-23T00:00:00Z,Navam Full Moon Poya Day,Poya Day
+2024-03-24T00:00:00Z,Medin Full Moon Poya Day,Poya Day
+2024-04-24T00:00:00Z,Bak Full Moon Poya Day,Poya Day
+2024-05-23T00:00:00Z,Vesak Full Moon Poya Day,Poya Day
+2024-06-21T00:00:00Z,Poson Full Moon Poya Day,Poya Day
+2024-07-20T00:00:00Z,Esala Full Moon Poya Day,Poya Day
+2024-08-19T00:00:00Z,Nikini Full Moon Poya Day,Poya Day
+2024-09-17T00:00:00Z,Binara Full Moon Poya Day,Poya Day
+2024-10-17T00:00:00Z,Vap Full Moon Poya Day,Poya Day
+2024-11-15T00:00:00Z,Il Full Moon Poya Day,Poya Day
+2024-12-14T00:00:00Z,Unduvap Full Moon Poya Day,Poya Day
+2024-01-25T00:00:00Z,Duruthu Full Moon Poya Day,Bank
+2024-01-15T00:00:00Z,Tamil Thai Pongal Day,Bank
+2024-02-05T00:00:00Z,Additional Half Holiday in lieu of the Independence Day  falling on Sunday,Bank
+2024-02-04T00:00:00Z,National Day,Bank
+2024-02-23T00:00:00Z,Navam Full Moon Poya Day,Bank
+2024-03-08T00:00:00Z,Maha Shiva Rathri Day,Bank
+2024-03-24T00:00:00Z,Medin Full Moon Poya Day,Bank
+2024-03-29T00:00:00Z,Good Friday,Bank
+2024-04-11T00:00:00Z,Ramazan Day,Bank
+2024-04-13T00:00:00Z,Day Prior to Sinhala and Tamil New Year Day,Bank
+2024-04-14T00:00:00Z,Sinhala and Tamil New Year Day,Bank
+2024-04-25T00:00:00Z,Bak Full Moon Poya Day,Bank
+2024-05-01T00:00:00Z,Labour Day,Bank
+2024-05-23T00:00:00Z,Vesak Full Moon Poya Day,Bank
+2024-05-24T00:00:00Z,Day after Vesak Full Moon Poya Day,Bank
+2024-06-17T00:00:00Z,Hajji Festival Day,Bank
+2024-06-21T00:00:00Z,Poson Full Moon Poya Day,Bank
+2024-07-20T00:00:00Z,Esala Full Moon Poya Day,Bank
+2024-08-19T00:00:00Z,Nikini Full Moon Poya Day,Bank
+2024-09-16T00:00:00Z,Holy Prophet's Birthday,Bank
+2024-09-17T00:00:00Z,Binara Full Moon Poya Day,Bank
+2024-10-17T00:00:00Z,Vap Full Moon Poya Day,Bank
+2024-10-31T00:00:00Z,Deepavali Day,Bank
+2024-11-15T00:00:00Z,Il Full Moon Poya Day,Bank
+2024-12-14T00:00:00Z,Unduvap Full Moon Poya Day,Bank
+2024-12-25T00:00:00Z,Christmas Day,Bank
+2024-01-25T00:00:00Z,Duruthu Full Moon Poya Day,Mercantile
+2024-01-15T00:00:00Z,Tamil Thai Pongal Day,Mercantile
+2024-02-05T00:00:00Z,Additional Half Holiday in lieu of the Independence Day  falling on Sunday,Mercantile
+2024-02-04T00:00:00Z,National Day,Mercantile
+2024-02-23T00:00:00Z,Navam Full Moon Poya Day,Mercantile
+2024-03-24T00:00:00Z,Medin Full Moon Poya Day,Mercantile
+2024-03-29T00:00:00Z,Good Friday,Mercantile
+2024-04-13T00:00:00Z,Day Prior to Sinhala and Tamil New Year Day,Mercantile
+2024-04-14T00:00:00Z,Sinhala and Tamil New Year Day,Mercantile
+2024-04-26T00:00:00Z,Bak Full Moon Poya Day,Mercantile
+2024-05-01T00:00:00Z,Labour Day,Mercantile
+2024-05-23T00:00:00Z,Vesak Full Moon Poya Day,Mercantile
+2024-05-24T00:00:00Z,Day after Vesak Full Moon Poya Day,Mercantile
+2024-06-21T00:00:00Z,Poson Full Moon Poya Day,Mercantile
+2024-07-20T00:00:00Z,Esala Full Moon Poya Day,Mercantile
+2024-08-19T00:00:00Z,Nikini Full Moon Poya Day,Mercantile
+2024-09-16T00:00:00Z,Holy Prophet's Birthday,Mercantile
+2024-09-17T00:00:00Z,Binara Full Moon Poya Day,Mercantile
+2024-10-17T00:00:00Z,Vap Full Moon Poya Day,Mercantile
+2024-11-15T00:00:00Z,Il Full Moon Poya Day,Mercantile
+2024-12-14T00:00:00Z,Unduvap Full Moon Poya Day,Mercantile
+2024-12-25T00:00:00Z,Christmas Day,Mercantile
+2023-01-06T00:00:00Z,Duruthu Full Moon Poya Day,Public
+2023-01-15T00:00:00Z,Tamil Thai Pongal Day,Public
+2023-01-16T00:00:00Z,Additional Holiday in lieu of Tamil Thai Pongal falling on Sunday,Public
+2023-02-03T00:00:00Z,Additional Half Holiday in lieu of the Independence Day falling on Saturday,Public
+2023-02-04T00:00:00Z,National Day,Public
+2023-02-05T00:00:00Z,Navam Full Moon Poya Day,Public
+2023-03-06T00:00:00Z,Medin Full Moon Poya Day,Public
+2023-04-05T00:00:00Z,Bak Full Moon Poya Day,Public
+2023-04-07T00:00:00Z,Good Friday,Public
+2023-04-13T00:00:00Z,Day Prior to Sinhala and Tamil New Year Day,Public
+2023-04-14T00:00:00Z,Sinhala and Tamil New Year Day,Public
+2023-05-01T00:00:00Z,Labour Day,Public
+2023-05-04T00:00:00Z,Additional Half Holiday in lieu of  Day following Vesak Full Moon Poya Day falling on Saturday,Public
+2023-05-05T00:00:00Z,Vesak Full Moon Poya Day,Public
+2023-05-06T00:00:00Z,Day after Vesak Full Moon Poya Day,Public
+2023-06-03T00:00:00Z,Poson Full Moon Poya Day,Public
+2023-07-03T00:00:00Z,Adi Esala Full Moon Poya Day,Public
+2023-08-01T00:00:00Z,Esala Full Moon Poya Day,Public
+2023-08-30T00:00:00Z,Nikini Full Moon Poya Day,Public
+2023-09-28T00:00:00Z,Holy Prophet's Birthday,Public
+2023-09-29T00:00:00Z,Binara Full Moon Poya Day,Public
+2023-10-28T00:00:00Z,Vap Full Moon Poya Day,Public
+2023-11-26T00:00:00Z,Il Full Moon Poya Day,Public
+2023-12-25T00:00:00Z,Christmas Day,Public
+2023-12-26T00:00:00Z,Unduvap Full Moon Poya Day,Public
+2023-01-06T00:00:00Z,Duruthu Full Moon Poya Day,Poya Day
+2023-02-05T00:00:00Z,Navam Full Moon Poya Day,Poya Day
+2023-03-06T00:00:00Z,Medin Full Moon Poya Day,Poya Day
+2023-04-05T00:00:00Z,Bak Full Moon Poya Day,Poya Day
+2023-05-05T00:00:00Z,Vesak Full Moon Poya Day,Poya Day
+2023-06-03T00:00:00Z,Poson Full Moon Poya Day,Poya Day
+2023-07-03T00:00:00Z,Adi Esala Full Moon Poya Day,Poya Day
+2023-08-01T00:00:00Z,Esala Full Moon Poya Day,Poya Day
+2023-08-30T00:00:00Z,Nikini Full Moon Poya Day,Poya Day
+2023-09-29T00:00:00Z,Binara Full Moon Poya Day,Poya Day
+2023-10-28T00:00:00Z,Vap Full Moon Poya Day,Poya Day
+2023-11-26T00:00:00Z,Il Full Moon Poya Day,Poya Day
+2023-12-26T00:00:00Z,Unduvap Full Moon Poya Day,Poya Day
+2023-01-06T00:00:00Z,Duruthu Full Moon Poya Day,Bank
+2023-01-15T00:00:00Z,Tamil Thai Pongal Day,Bank
+2023-01-16T00:00:00Z,Additional Holiday in lieu of Tamil Thai Pongal falling on Sunday,Bank
+2023-02-03T00:00:00Z,Additional Half Holiday in lieu of the Independence Day falling on Saturday,Bank
+2023-02-04T00:00:00Z,National Day,Bank
+2023-02-05T00:00:00Z,Navam Full Moon Poya Day,Bank
+2023-03-06T00:00:00Z,Medin Full Moon Poya Day,Bank
+2023-04-05T00:00:00Z,Bak Full Moon Poya Day,Bank
+2023-04-07T00:00:00Z,Good Friday,Bank
+2023-04-13T00:00:00Z,Day Prior to Sinhala and Tamil New Year Day,Bank
+2023-04-14T00:00:00Z,Sinhala and Tamil New Year Day,Bank
+2023-05-01T00:00:00Z,Labour Day,Bank
+2023-05-04T00:00:00Z,Additional Half Holiday in lieu of  Day following Vesak Full Moon Poya Day falling on Saturday,Bank
+2023-05-05T00:00:00Z,Vesak Full Moon Poya Day,Bank
+2023-05-06T00:00:00Z,Day after Vesak Full Moon Poya Day,Bank
+2023-06-03T00:00:00Z,Poson Full Moon Poya Day,Bank
+2023-07-03T00:00:00Z,Adi Esala Full Moon Poya Day,Bank
+2023-08-01T00:00:00Z,Esala Full Moon Poya Day,Bank
+2023-08-30T00:00:00Z,Nikini Full Moon Poya Day,Bank
+2023-09-28T00:00:00Z,Holy Prophet's Birthday,Bank
+2023-09-29T00:00:00Z,Binara Full Moon Poya Day,Bank
+2023-10-28T00:00:00Z,Vap Full Moon Poya Day,Bank
+2023-11-26T00:00:00Z,Il Full Moon Poya Day,Bank
+2023-12-25T00:00:00Z,Christmas Day,Bank
+2023-12-26T00:00:00Z,Unduvap Full Moon Poya Day,Bank
+2023-01-06T00:00:00Z,Duruthu Full Moon Poya Day,Mercantile
+2023-01-15T00:00:00Z,Tamil Thai Pongal Day,Mercantile
+2023-01-16T00:00:00Z,Additional Holiday in lieu of Tamil Thai Pongal falling on Sunday,Mercantile
+2023-02-03T00:00:00Z,Additional Half Holiday in lieu of the Independence Day falling on Saturday,Mercantile
+2023-02-04T00:00:00Z,National Day,Mercantile
+2023-02-05T00:00:00Z,Navam Full Moon Poya Day,Mercantile
+2023-03-06T00:00:00Z,Medin Full Moon Poya Day,Mercantile
+2023-04-05T00:00:00Z,Bak Full Moon Poya Day,Mercantile
+2023-04-07T00:00:00Z,Good Friday,Mercantile
+2023-04-13T00:00:00Z,Day Prior to Sinhala and Tamil New Year Day,Mercantile
+2023-04-14T00:00:00Z,Sinhala and Tamil New Year Day,Mercantile
+2023-05-01T00:00:00Z,Labour Day,Mercantile
+2023-05-04T00:00:00Z,Additional Half Holiday in lieu of  Day following Vesak Full Moon Poya Day falling on Saturday,Mercantile
+2023-05-05T00:00:00Z,Vesak Full Moon Poya Day,Mercantile
+2023-05-06T00:00:00Z,Day after Vesak Full Moon Poya Day,Mercantile
+2023-06-03T00:00:00Z,Poson Full Moon Poya Day,Mercantile
+2023-07-03T00:00:00Z,Adi Esala Full Moon Poya Day,Mercantile
+2023-08-01T00:00:00Z,Esala Full Moon Poya Day,Mercantile
+2023-08-30T00:00:00Z,Nikini Full Moon Poya Day,Mercantile
+2023-09-28T00:00:00Z,Holy Prophet's Birthday,Mercantile
+2023-09-29T00:00:00Z,Binara Full Moon Poya Day,Mercantile
+2023-10-28T00:00:00Z,Vap Full Moon Poya Day,Mercantile
+2023-11-26T00:00:00Z,Il Full Moon Poya Day,Mercantile
+2023-12-25T00:00:00Z,Christmas Day,Mercantile
+2023-12-26T00:00:00Z,Unduvap Full Moon Poya Day,Mercantile
+2025-01-13T00:00:00Z,Duruthu Full Moon Poya Day,Public
+2025-01-14T00:00:00Z,Tamil Thai Pongal Day,Public
+2025-02-04T00:00:00Z,lndependence Day,Public
+2025-02-12T00:00:00Z,Navam Full Moon Poya Day,Public
+2025-03-13T00:00:00Z,Madin Full Moon Poya Day,Public
+2025-04-12T00:00:00Z,Bak Full Moon Poya Day,Public
+2025-04-13T00:00:00Z,Day Prior to Sinhala & Tamil New Year Day,Public
+2025-04-14T00:00:00Z,Sinhala & Tamil New Year Day,Public
+2025-04-18T00:00:00Z,Good Friday,Public
+2025-05-01T00:00:00Z,May Day,Public
+2025-05-12T00:00:00Z,Vesak Full Moon Poya Day,Public
+2025-05-13T00:00:00Z,Day following Vesak Full Moon Poya Day,Public
+2025-06-10T00:00:00Z,Poson Full Moon Poya Day,Public
+2025-07-10T00:00:00Z,Esala Full Moon Poya Day,Public
+2025-08-10T00:00:00Z,Nikini Full Moon Poya Day,Public
+2025-09-05T00:00:00Z,Holy Prophet's Birthday (Milad-Un-Nabi),Public
+2025-09-07T00:00:00Z,Binara Full Moon Poya Day,Public
+2025-10-06T00:00:00Z,Vap Full Moon Poya Day,Public
+2025-11-05T00:00:00Z,Ill Full Moon Poya Day,Public
+2025-12-04T00:00:00Z,Unduvap Full Moon Poya Day,Public
+2025-12-25T00:00:00Z,Christmas Day,Public
+2025-01-13T00:00:00Z,Duruthu Full Moon Poya Day,Poya Day
+2025-02-12T00:00:00Z,Navam Full Moon Poya Day,Poya Day
+2025-03-13T00:00:00Z,Madin Full Moon Poya Day,Poya Day
+2025-04-12T00:00:00Z,Bak Full Moon Poya Day,Poya Day
+2025-04-13T00:00:00Z,Day Prior to Sinhala & Tamil New Year Day,Poya Day
+2025-04-14T00:00:00Z,Sinhala & Tamil New Year Day,Poya Day
+2025-05-12T00:00:00Z,Vesak Full Moon Poya Day,Poya Day
+2025-06-10T00:00:00Z,Poson Full Moon Poya Day,Poya Day
+2025-07-10T00:00:00Z,Esala Full Moon Poya Day,Poya Day
+2025-08-10T00:00:00Z,Nikini Full Moon Poya Day,Poya Day
+2025-10-06T00:00:00Z,Vap Full Moon Poya Day,Poya Day
+2025-11-05T00:00:00Z,Ill Full Moon Poya Day,Poya Day
+2025-12-04T00:00:00Z,Unduvap Full Moon Poya Day,Poya Day
+2025-01-13T00:00:00Z,Duruthu Full Moon Poya Day,Bank
+2025-01-14T00:00:00Z,Tamil Thai Pongal Day,Bank
+2025-02-04T00:00:00Z,lndependence Day,Bank
+2025-02-12T00:00:00Z,Navam Full Moon Poya Day,Bank
+2025-03-13T00:00:00Z,Madin Full Moon Poya Day,Bank
+2025-04-12T00:00:00Z,Bak Full Moon Poya Day,Bank
+2025-04-13T00:00:00Z,Day Prior to Sinhala & Tamil New Year Day,Bank
+2025-04-14T00:00:00Z,Sinhala & Tamil New Year Day,Bank
+2025-04-15T00:00:00Z,Additional full holiday in lieu of Day prior to Sinhala & Tamil New Year Day falling on Sunday,Bank
+2025-04-18T00:00:00Z,Good Friday,Bank
+2025-05-01T00:00:00Z,May Day,Bank
+2025-05-12T00:00:00Z,Vesak Full Moon Poya Day,Bank
+2025-05-13T00:00:00Z,Day following Vesak Full Moon Poya Day,Bank
+2025-06-10T00:00:00Z,Poson Full Moon Poya Day,Bank
+2025-07-10T00:00:00Z,Esala Full Moon Poya Day,Bank
+2025-08-10T00:00:00Z,Nikini Full Moon Poya Day,Bank
+2025-09-05T00:00:00Z,Holy Prophet's Birthday (Milad-Un-Nabi),Bank
+2025-09-07T00:00:00Z,Binara Full Moon Poya Day,Bank
+2025-10-06T00:00:00Z,Vap Full Moon Poya Day,Bank
+2025-11-05T00:00:00Z,Ill Full Moon Poya Day,Bank
+2025-12-04T00:00:00Z,Unduvap Full Moon Poya Day,Bank
+2025-12-25T00:00:00Z,Christmas Day,Bank
+2025-01-13T00:00:00Z,Duruthu Full Moon Poya Day,Mercantile
+2025-01-14T00:00:00Z,Tamil Thai Pongal Day,Mercantile
+2025-02-04T00:00:00Z,lndependence Day,Mercantile
+2025-02-12T00:00:00Z,Navam Full Moon Poya Day,Mercantile
+2025-03-13T00:00:00Z,Madin Full Moon Poya Day,Mercantile
+2025-04-12T00:00:00Z,Bak Full Moon Poya Day,Mercantile
+2025-04-13T00:00:00Z,Day Prior to Sinhala & Tamil New Year Day,Mercantile
+2025-04-14T00:00:00Z,Sinhala & Tamil New Year Day,Mercantile
+2025-05-01T00:00:00Z,May Day,Mercantile
+2025-05-12T00:00:00Z,Vesak Full Moon Poya Day,Mercantile
+2025-05-13T00:00:00Z,Day following Vesak Full Moon Poya Day,Mercantile
+2025-06-10T00:00:00Z,Poson Full Moon Poya Day,Mercantile
+2025-07-10T00:00:00Z,Esala Full Moon Poya Day,Mercantile
+2025-08-10T00:00:00Z,Nikini Full Moon Poya Day,Mercantile
+2025-09-05T00:00:00Z,Holy Prophet's Birthday (Milad-Un-Nabi),Mercantile
+2025-09-07T00:00:00Z,Binara Full Moon Poya Day,Mercantile
+2025-10-06T00:00:00Z,Vap Full Moon Poya Day,Mercantile
+2025-11-05T00:00:00Z,Ill Full Moon Poya Day,Mercantile
+2025-12-04T00:00:00Z,Unduvap Full Moon Poya Day,Mercantile
+2025-12-25T00:00:00Z,Christmas Day,Mercantile
