@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/ASUS/Desktop/wecodex-datastorm/silver/transactions_clean.csv filter=lfs diff=lfs merge=lfs -text
